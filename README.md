@@ -23,4 +23,4 @@ Doc Pode ser acessado via browser http://localhost:8000/docs
 
 # Teste de carga
 Para realizar o teste de carga acesse o README do diretório locust.
-[Locust](locust/README.md)
+[Locust](load_test/README.md)
