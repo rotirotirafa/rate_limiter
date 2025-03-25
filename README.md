@@ -15,10 +15,12 @@ Para rodar o sistema, execute o comando abaixo:
 - GET /item
 - GET /item/xpto
 
-Pode ser acessado via browser http://localhost:8000/docs
+Doc Pode ser acessado via browser http://localhost:8000/docs
 
-# Portas
+## Portas
 - 8000: Servidor HTTP
 - 6379: Redis
 
-
+# Teste de carga
+Para realizar o teste de carga acesse o README do diretório locust.
+[Locust](locust/README.md)
